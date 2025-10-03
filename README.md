@@ -60,4 +60,4 @@ python enhanced_app.py
 - **本地访问**: http://localhost:6061
 - **局域网访问**: http://你的IP:6061
 
-## 参考站：sri.rstqxq.com
+## 参考站：https://sri.rstqxq.com
